@@ -9,6 +9,7 @@ namespace GitAndAsyncTesting
     class Banana
     {
         private int Weight = 2; 
+        private string color = "Green"; 
 
     }
 }
