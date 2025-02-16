@@ -10,6 +10,7 @@ namespace GitAndAsyncTesting
     {
         private int Weight = 2;
         private string Color = "Black";
+        //small change
         //ammended change
 
     }
