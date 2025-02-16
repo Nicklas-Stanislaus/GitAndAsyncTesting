@@ -11,6 +11,7 @@ namespace GitAndAsyncTesting
         private int Weight = 2;
         private string Color = "Black";
         //small change
+        //small change to master
         //ammended change
 
     }
